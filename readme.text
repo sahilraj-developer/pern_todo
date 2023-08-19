@@ -1,0 +1,26 @@
+# PERN TODO App
+
+Welcome to the PERN TODO App! This is a simple web application built using the PERN (PostgreSQL, Express, React, Node.js) stack. The app allows you to create, manage, and track your tasks and to-dos.
+
+## Features
+
+- Create new tasks with titles and descriptions.
+- Mark tasks as completed or uncompleted.
+- Edit existing tasks to update their titles or descriptions.
+- Delete tasks that are no longer needed.
+
+## Technologies Used
+
+- Frontend:
+  - React: A JavaScript library for building user interfaces.
+  - React Router: For handling navigation within the app.
+  - Axios: A promise-based HTTP client for making API requests.
+
+- Backend:
+  - Node.js: A JavaScript runtime for building server-side applications.
+  - Express: A fast and minimal web application framework for Node.js.
+  - PostgreSQL: A powerful open-source relational database system.
+  - Sequelize: A promise-based Node.js ORM for PostgreSQL.
+
+
+
